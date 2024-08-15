@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Aditya18mew
 - 👀 I’m interested in full stack development 
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫  to reach me email
+- 🌱 I’m currently learning react
+- 💞️ I’m looking to collaborate on open source contribution
+- 📫  to reach me email-parmaraditya242@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: be happy
 
