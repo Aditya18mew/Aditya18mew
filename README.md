@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack development 
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on open source contribution
-- 📫  to reach me email-parmaraditya242@gmail.com
+- 📫  to reach me email
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: be happy
 
